@@ -13,6 +13,7 @@ function johnLennonFacts(facts) {
 
   while (facts.length !== 0) {
     arr.push(facts.pop())
-    
+
   }
+  return arr
 }
