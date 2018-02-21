@@ -10,5 +10,9 @@ return arr
 
 function johnLennonFacts(facts) {
   var arr = []
-  
+
+  while (facts.length !== 0) {
+    arr.push(facts.pop())
+    
+  }
 }
