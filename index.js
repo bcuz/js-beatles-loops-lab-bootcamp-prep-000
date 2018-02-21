@@ -8,6 +8,7 @@ function theBeatlesPlay(artist, tool) {
 return arr
 }
 
-function johnLennonFacts(arr) {
-
+function johnLennonFacts(facts) {
+  var arr = []
+  
 }
